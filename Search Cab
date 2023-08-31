@@ -1,0 +1,13 @@
+<div class="d-flex searchsoft_bottmrow">
+                           <div class="mobilefield">
+                               <label for="" class="form-label">Mobile Number <span class="required">*</span></label>
+                               <input type="text" required="" maxlength="10" placeholder="Your Mobile Number" name="mobile" class="form-control numbersOnly"> 
+                           </div>
+                                        <input type="hidden" name="triptype" value="outstation">
+                                        <input type="hidden" name="tripmode" value="multicity">
+                                        <input type="hidden" name="ptype" value="rent">
+                                        
+                           <div class="srchbtnbox">
+                           <input type="submit" class="search_cb  sitebtn" value="Search Cab">
+                           </div>
+                       </div>
